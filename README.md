@@ -19,6 +19,6 @@ is installed in a garden that has no electricity or town water.
 + It uses 2 Mi Flora sensors to check if watering is necessary
 + Is connected via WiFi and MQTT to my home
 
-Please have a look at the Wiki for instructions to setup.
+Please have a look at the [Wiki}(https://github.com/RalfJL/Irrigation/wiki) for instructions to setup.
 
 Picture will follow.
